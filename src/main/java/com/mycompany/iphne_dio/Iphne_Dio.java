@@ -5,7 +5,6 @@
 package com.mycompany.iphne_dio;
 
 import com.mycompany.iphne_dio.ReprodutorMusical.Musica;
-import com.mycompany.iphne_dio.ReprodutorMusical.ReprodutorMusical;
 import com.mycompany.iphne_dio.Telefonico.AparelhoTelefonico;
 import com.mycompany.iphne_dio.aparelho.Smartfone;
 
